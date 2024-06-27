@@ -2,9 +2,19 @@ import axios from "axios";
 
 const containerVideos = document.querySelector(".videos__container");
 
+// preview - previa de producao
 async function buscarEMostrarVideos() {
+  const urlVideos = import.meta.env.PROD 
+  ? "https://gist.githubusercontent.com/TekhneDev/82b95ff1e406386b15a594987ec827e0/raw/ab114f5c33b096320239acd1978359b41f164d4a/gistfile1.txt" 
+  : "http://localhost:3000/videos";
+
+  //console.log(import.meta.env.PROD)
+  //console.log(urlVideos);
+
+
   try {
-    const busca = await axios.get("https://gist.githubusercontent.com/TekhneDev/82b95ff1e406386b15a594987ec827e0/raw/ab114f5c33b096320239acd1978359b41f164d4a/gistfile1.txt");
+    // Para desenvolver e testar localmente o melhor é teste pelo localhost mesmo
+    const busca = await axios.get(urlVideos);
     const videos = busca.data;
 
     videos.forEach((video) => {
