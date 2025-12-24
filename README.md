@@ -62,7 +62,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
    ```
    http://localhost:5000
    ```
-  </br>(Ou o endereço de localhost que aparecer no bash)
+  (Ou o endereço de localhost que aparecer no bash)
 
    Agora você pode começar a utilizar a aplicação, criar, visualizar o VidFlow.
 
