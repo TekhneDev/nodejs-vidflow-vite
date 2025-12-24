@@ -68,7 +68,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 
 ## 🤝 Colaboradores
 
-Vizualizamos às principais pessoas que contribuíram para este projeto:
+As principais pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
