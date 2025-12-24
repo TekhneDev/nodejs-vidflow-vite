@@ -1,4 +1,4 @@
-🎉 **Bem-vindo ao VidFlow** 🚀
+## 🎉 **Bem-vindo ao VidFlow** 🚀
 
 Este projeto é um exemplo interativo para demonstrar o uso de tecnologias incríveis! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
 
