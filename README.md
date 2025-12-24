@@ -58,7 +58,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 6. **Acesse a aplicação:**
 
    Abra o seu navegador e digite o seguinte endereço:
-   (Ou o endereço de localhost que aparecer no bash)
+   </br>(Ou o endereço de localhost que aparecer no bash)
 
    ```
    http://localhost:5000
