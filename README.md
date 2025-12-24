@@ -2,6 +2,8 @@
 
 Este projeto é um exemplo interativo para demonstrar o uso de tecnologias incríveis! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
 
+![Screenshot](https://i.imgur.com/QY67Np1.png#vitrinedev)
+
 ## ℹ️ Sobre o Projeto
 
 O VidFlow é uma aplicação web que permite a vizualização de vídeos aos usuários, similar ao Youtube . Foi desenvolvido com as seguintes tecnologias:
